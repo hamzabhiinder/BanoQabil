@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663328254220",
+    "project_id": "banoqabil-d766e",
+    "storage_bucket": "banoqabil-d766e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663328254220:android:14474da90eb80f54fdc129",
+        "android_client_info": {
+          "package_name": "com.example.banoqabil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663328254220-rql9i5272rce1maf39ksaq3510jqlpmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvx6FaxTBaMbFKmjvEttnakFNfKjqk6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663328254220-rql9i5272rce1maf39ksaq3510jqlpmc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663328254220-3mh5n3gvboblhgc6ghqdbth196jd4j0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "banoqabil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
